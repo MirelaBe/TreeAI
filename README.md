@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/07acaf6b-405b-444c-b806-2a6c968f16af)
 
 
-# Data call for tree species data and aerial RGB or RGB-NIR imagery (TreeAI)
+# Data call for tree species data and aerial RGB or RGB-NIR imagery (TreeAI) 🌳🌲
 
 Dear forest scientists,
 
