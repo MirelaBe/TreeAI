@@ -18,8 +18,9 @@ As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establi
 - Individual tree species records.
 
 ### Data format: 
-**Ground truth tree data:** shapefile of individual trees with the two minimum attributes or an Excel file with the X and Y coordinates of the point of the individual tree canopy. \
+**Ground truth tree data:** For the delineation of the tree crowns a shapefile of the individual trees with the two minimum attributes. For GPS points of the center of the tree species a shapefile or an Excel file with the X and Y coordinates and the tree species. \
 **RGBI images:** tiff file. Please specify the coordinate systems of the data. The data might originate from either forests or urban regions. \
+**COCO format:** A JSON annotation file with the attributes and the image files (e.g., png, jpg, or tiff). 
 Data transfer: Please use your preferred data transfer option or let us know your needs.
 
 ### Optional data:
