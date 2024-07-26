@@ -4,10 +4,10 @@ Data call for tree species data and aerial RGB or RGB-NIR imagery (TreeAI)
 Dear forest scientists,
 As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establish an international collaboration and create the first database for the detection of individual tree species. We are seeking i) manual tree species canopy delineations and ii) aerial RGB-NIR (red, green, blue and near infrared) or RGB imagery data for the delineated tree species from around the world. The TreeAI database will serve as the foundation for training a universal deep learning model for monitoring tree species using fine-grained aerial data. We are also looking for (1) people with experience in deep learning for object detection or instance segmentation; and (2): people who are willing to contribute to the writing of the manuscripts.
 Output: You will be given the opportunity to contribute as a co-author in a) the publication of a data manuscript (the data provided will only be published with your consent); b) a manuscript investigating different approaches to detecting individual tree species.
-##Deadline for submission 31 October 2024
+## Deadline for submission 31 October 2024
 Our aim is to be an open collaborator for individual tree species monitoring researchers worldwide.
 * The criteria for data submissions are as follows:
-##Minimum data:
+## Minimum data:
 1.	RGB-NIR (or RGB) imagery (at ≤ 10 cm (about 3.94 in) spatial resolution) of the site. 
 2.	Ground truth tree data (n>100), including two minimum attributes: 
 1)	Geolocation of individual tree with manual delineation of the individual tree canopy (strongly preferred) AND/OR coordinates of the point of the individual tree canopy. 
@@ -16,7 +16,7 @@ Data format:
 Ground truth tree data: shapefile of individual trees with the two minimum attributes. 
 RGBI images: tiff file. Please specify the coordinate systems of the data. The data might originate from either forests or urban regions.
 
-##Optional data:
+## Optional data:
 We welcome ground truth tree data with more additional attributes, as this would facilitate further evaluations and developments of models in the future. They include, but are not limited to 
 1.	Time of the measurements of ground truth data (multi-temporal data are welcomed).
 2.	Tree size: diameter at breast height (cm), tree height (m), and social status i.e. dominant and co-dominant.
