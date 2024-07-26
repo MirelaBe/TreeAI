@@ -1,17 +1,15 @@
 # TreeAI
-Data call for tree species data and aerial RGB or RGB-NIR imagery (TreeAI)
-
+## Data call for tree species data and aerial RGB or RGB-NIR imagery (TreeAI)
 Dear forest scientists,
-As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establish an international collaboration and create the first database for the detection of individual tree species. We are seeking i) manual tree species canopy delineations and ii) aerial RGB-NIR (red, green, blue and near infrared) or RGB imagery data for the delineated tree species from around the world. The TreeAI database will serve as the foundation for training a universal deep learning model for monitoring tree species using fine-grained aerial data. We are also looking for (1) people with experience in deep learning for object detection or instance segmentation; and (2): people who are willing to contribute to the writing of the manuscripts.
+As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establish an international collaboration and create the first database for the detection of individual tree species. We are seeking *i) manual tree species canopy delineations* and *ii) aerial RGB-NIR* (red, green, blue and near infrared) or *RGB imagery* data for the delineated tree species from around the world. The TreeAI database will serve as the foundation for training a universal deep learning model for monitoring tree species using fine-grained aerial data. We are also looking for (1) people with experience in deep learning for object detection or instance segmentation; and (2): people who are willing to contribute to the writing of the manuscripts.
 Output: You will be given the opportunity to contribute as a co-author in a) the publication of a data manuscript (the data provided will only be published with your consent); b) a manuscript investigating different approaches to detecting individual tree species.
-## Deadline for submission 31 October 2024
-Our aim is to be an open collaborator for individual tree species monitoring researchers worldwide.
+
 * The criteria for data submissions are as follows:
 ## Minimum data:
 1.	RGB-NIR (or RGB) imagery (at ≤ 10 cm (about 3.94 in) spatial resolution) of the site. 
-2.	Ground truth tree data (n>100), including two minimum attributes: 
-a.	Geolocation of individual tree with manual delineation of the individual tree canopy (strongly preferred) AND/OR coordinates of the point of the individual tree canopy. 
-b.	Individual tree species records.
+2.	Ground truth tree data (n>100), including two minimum attributes:
+- Geolocation of individual tree with manual delineation of the individual tree canopy (strongly preferred) AND/OR coordinates of the point of the individual tree canopy. 
+- Individual tree species records.
 
 Data format: 
 Ground truth tree data: shapefile of individual trees with the two minimum attributes. 
@@ -27,7 +25,10 @@ We welcome ground truth tree data with more additional attributes, as this would
 6.	Stand age, regeneration conditions (i.e., presence or absence, numbers of saplings), and management operations.
 For the plots with RGB/RGB-NIR images, the inclusion of high-resolution multispectral/hyperspectral images, high-resolution ground panorama photographs, UAV and/or terrestrial LiDAR point clouds data will be highly valuable. 
 
-Contact Zhongyu Xia, zhongyu.xia@usys.ethz.ch or Dr. Mirela Beloiu Schwenke, mirela.beloiu@usys.ethz.ch, if you are interested in making a data contribution and your data match the criteria outlined. All data will be handled safely and securely under a strict data policy and will not be given to third parties without permission. 
+### Deadline for submission 31 October 2024
+Our aim is to be an open collaborator for individual tree species monitoring researchers worldwide.
+
+Contact **Zhongyu Xia**, zhongyu.xia@usys.ethz.ch or Dr. Mirela Beloiu Schwenke, mirela.beloiu@usys.ethz.ch, if you are interested in making a data contribution and your data match the criteria outlined. All data will be handled safely and securely under a strict data policy and will not be given to third parties without permission. 
 We look forward to hearing from you.
 Zhongyu Xia, Mirela Beloiu Schwenke, Xinlian Liang, and Martin Mokros
 (Principal Investigators COST SNSF project, 3DForEcoTech)
