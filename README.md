@@ -32,7 +32,8 @@ Zhongyu Xia, Mirela Beloiu Schwenke, Xinlian Liang, and Martin Mokros
 (Principal Investigators COST SNSF project, 3DForEcoTech)
 
 Example of delineated individual tree species:
- 
+ ![image](https://github.com/user-attachments/assets/4e4c158e-e5e8-4436-abcd-df105705d423)
+
 Fig.1 a) Tree species delineation on RGB imagery, the colors show different tree species; b) example of attribute table containing key information of the delineated trees, such as the Latin names of the species, DBH, height.
 
 
