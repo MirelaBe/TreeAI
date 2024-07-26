@@ -2,7 +2,7 @@
 
 
 
-# Data call for tree species data and aerial RGB or RGBI imagery (TreeAI) 🌳🌲
+# Data call for tree species annotations and aerial RGB or RGBI imagery (TreeAI) 🌳🌲
 
 Dear forest scientists,
 
