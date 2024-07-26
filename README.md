@@ -10,8 +10,9 @@ Our aim is to be an open collaborator for individual tree species monitoring res
 ## Minimum data:
 1.	RGB-NIR (or RGB) imagery (at ≤ 10 cm (about 3.94 in) spatial resolution) of the site. 
 2.	Ground truth tree data (n>100), including two minimum attributes: 
-1)	Geolocation of individual tree with manual delineation of the individual tree canopy (strongly preferred) AND/OR coordinates of the point of the individual tree canopy. 
-2)	Individual tree species records.
+a.	Geolocation of individual tree with manual delineation of the individual tree canopy (strongly preferred) AND/OR coordinates of the point of the individual tree canopy. 
+b.	Individual tree species records.
+
 Data format: 
 Ground truth tree data: shapefile of individual trees with the two minimum attributes. 
 RGBI images: tiff file. Please specify the coordinate systems of the data. The data might originate from either forests or urban regions.
