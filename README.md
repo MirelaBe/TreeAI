@@ -12,7 +12,7 @@ As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establi
 
 * The criteria for data submissions are as follows:
 ## Minimum data:
-1.	RGBI (or RGB) imagery (at ≤ 10 cm (about 3.94 in) spatial resolution) of the site. 
+1.	RGBI (or RGB) imagery (at ≤ 10 cm, about 3.94 in, spatial resolution) of the site. 
 2.	Ground truth tree data (n>100), including two minimum attributes:
 - Geolocation of individual tree with manual delineation of the individual tree canopy (strongly preferred) AND/OR coordinates of the point of the individual tree canopy. 
 - Individual tree species records.
