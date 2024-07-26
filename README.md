@@ -2,24 +2,25 @@
 
 
 
-# Data call for tree species data and aerial RGB or RGB-NIR imagery (TreeAI) 🌳🌲
+# Data call for tree species data and aerial RGB or RGBI imagery (TreeAI) 🌳🌲
 
 Dear forest scientists,
 
-As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establish an international collaboration and create the first database for the detection of individual tree species. We are seeking *i) manual tree species canopy delineations* and *ii) aerial RGB-NIR* (red, green, blue and near infrared) or *RGB imagery* data for the delineated tree species from around the world. The TreeAI database will serve as the foundation for training a universal deep-learning model for monitoring tree species using fine-grained aerial data. We are also looking for (1) people with experience in deep learning for object detection or instance segmentation; and (2) people who are willing to contribute to the writing of the manuscripts.
+As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establish an international collaboration and create the first database for the detection of individual tree species. We are seeking *i) manual tree species canopy delineations* and *ii) aerial RGBI* (red, green, blue, and near infrared) or *RGB imagery* data for the delineated tree species from around the world. The TreeAI database will serve as the foundation for training a universal deep-learning model for monitoring tree species using fine-grained aerial data. We are also looking for (1) people with experience in deep learning for object detection or instance segmentation; and (2) people who are willing to contribute to the writing of the manuscripts.
 
 **Output:** You will be given the opportunity to contribute as a co-author in a) the publication of a data manuscript (the data provided will only be published with your consent); b) a manuscript investigating different approaches to detecting individual tree species.
 
 * The criteria for data submissions are as follows:
 ## Minimum data:
-1.	RGB-NIR (or RGB) imagery (at ≤ 10 cm (about 3.94 in) spatial resolution) of the site. 
+1.	RGBI (or RGB) imagery (at ≤ 10 cm (about 3.94 in) spatial resolution) of the site. 
 2.	Ground truth tree data (n>100), including two minimum attributes:
 - Geolocation of individual tree with manual delineation of the individual tree canopy (strongly preferred) AND/OR coordinates of the point of the individual tree canopy. 
 - Individual tree species records.
 
 ### Data format: 
 **Ground truth tree data:** shapefile of individual trees with the two minimum attributes or an Excel file with the X and Y coordinates of the point of the individual tree canopy. \
-**RGBI images:** tiff file. Please specify the coordinate systems of the data. The data might originate from either forests or urban regions.
+**RGBI images:** tiff file. Please specify the coordinate systems of the data. The data might originate from either forests or urban regions. \
+Data transfer: Please use your preferred data transfer option or let us know your needs.
 
 ### Optional data:
 We welcome ground truth tree data with more additional attributes, as this would facilitate further evaluations and developments of models in the future. They include, but are not limited to: 
@@ -36,11 +37,12 @@ Our aim is to be an open collaborator for individual tree species monitoring res
 
 Contact **Zhongyu Xia**, zhongyu.xia[at]usys.ethz.ch or Dr. Mirela Beloiu Schwenke, mirela.beloiu[at]usys.ethz.ch, if you are interested in making a data contribution and your data match the criteria outlined or if you want to help with the DL part. All data will be handled safely and securely under a strict data policy and will not be given to third parties without permission. 
 We look forward to hearing from you.
-Zhongyu Xia, Mirela Beloiu Schwenke, Xinlian Liang, and Martin Mokros
-(Principal Investigators COST SNSF project, 3DForEcoTech)
+
+Zhongyu Xia, Mirela Beloiu Schwenke, Xinlian Liang, and Martin Mokros \
+(Principal Investigators COST SNSF project and 3DForEcoTech)
 
 Example of delineated individual tree species:
 ![image](https://github.com/user-attachments/assets/32c4ad82-0fb0-4e6f-9ea1-988200d37a5b) \
-Fig.1 a) Tree species delineation on RGB imagery, the colors show different tree species; b) example of attribute table containing key information of the delineated trees, such as the Latin names of the species, DBH, height.
+Fig.1 a) Tree species delineation on RGB imagery, the colors show different tree species; b) example of attribute table containing key information of the delineated trees, such as the Latin names of the species, DBH, and height.
 
 
