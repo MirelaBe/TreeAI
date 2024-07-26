@@ -1,5 +1,5 @@
-# TreeAI
-## Data call for tree species data and aerial RGB or RGB-NIR imagery (TreeAI)
+# Data call for tree species data and aerial RGB or RGB-NIR imagery (TreeAI)
+
 Dear forest scientists,
 As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establish an international collaboration and create the first database for the detection of individual tree species. We are seeking *i) manual tree species canopy delineations* and *ii) aerial RGB-NIR* (red, green, blue and near infrared) or *RGB imagery* data for the delineated tree species from around the world. The TreeAI database will serve as the foundation for training a universal deep learning model for monitoring tree species using fine-grained aerial data. We are also looking for (1) people with experience in deep learning for object detection or instance segmentation; and (2): people who are willing to contribute to the writing of the manuscripts.
 Output: You will be given the opportunity to contribute as a co-author in a) the publication of a data manuscript (the data provided will only be published with your consent); b) a manuscript investigating different approaches to detecting individual tree species.
