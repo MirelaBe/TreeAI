@@ -1,11 +1,12 @@
 ![image](https://github.com/user-attachments/assets/07acaf6b-405b-444c-b806-2a6c968f16af)
 
 
+
 # Data call for tree species data and aerial RGB or RGB-NIR imagery (TreeAI) 🌳🌲
 
 Dear forest scientists,
 
-As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establish an international collaboration and create the first database for the detection of individual tree species. We are seeking *i) manual tree species canopy delineations* and *ii) aerial RGB-NIR* (red, green, blue and near infrared) or *RGB imagery* data for the delineated tree species from around the world. The TreeAI database will serve as the foundation for training a universal deep learning model for monitoring tree species using fine-grained aerial data. We are also looking for (1) people with experience in deep learning for object detection or instance segmentation; and (2) people who are willing to contribute to the writing of the manuscripts.
+As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establish an international collaboration and create the first database for the detection of individual tree species. We are seeking *i) manual tree species canopy delineations* and *ii) aerial RGB-NIR* (red, green, blue and near infrared) or *RGB imagery* data for the delineated tree species from around the world. The TreeAI database will serve as the foundation for training a universal deep-learning model for monitoring tree species using fine-grained aerial data. We are also looking for (1) people with experience in deep learning for object detection or instance segmentation; and (2) people who are willing to contribute to the writing of the manuscripts.
 
 **Output:** You will be given the opportunity to contribute as a co-author in a) the publication of a data manuscript (the data provided will only be published with your consent); b) a manuscript investigating different approaches to detecting individual tree species.
 
@@ -33,7 +34,7 @@ For the plots with RGB/RGB-NIR images, the inclusion of high-resolution multispe
 ### Deadline for submission 31 October 2024
 Our aim is to be an open collaborator for individual tree species monitoring researchers worldwide.
 
-Contact **Zhongyu Xia**, zhongyu.xia[at]usys.ethz.ch or Dr. Mirela Beloiu Schwenke, mirela.beloiu[at]usys.ethz.ch, if you are interested in making a data contribution and your data match the criteria outlined. All data will be handled safely and securely under a strict data policy and will not be given to third parties without permission. 
+Contact **Zhongyu Xia**, zhongyu.xia[at]usys.ethz.ch or Dr. Mirela Beloiu Schwenke, mirela.beloiu[at]usys.ethz.ch, if you are interested in making a data contribution and your data match the criteria outlined or if you want to help with the DL part. All data will be handled safely and securely under a strict data policy and will not be given to third parties without permission. 
 We look forward to hearing from you.
 Zhongyu Xia, Mirela Beloiu Schwenke, Xinlian Liang, and Martin Mokros
 (Principal Investigators COST SNSF project, 3DForEcoTech)
