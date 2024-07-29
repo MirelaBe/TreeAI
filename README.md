@@ -39,7 +39,7 @@ Our aim is to be an open collaborator for individual tree species monitoring res
 Contact **Zhongyu Xia**, zhongyu.xia[at]usys.ethz.ch or Dr. Mirela Beloiu Schwenke, mirela.beloiu[at]usys.ethz.ch, if you are interested in making a data contribution and your data match the criteria outlined or if you want to help with the DL part. All data will be handled safely and securely under a strict data policy and will not be given to third parties without permission. 
 We look forward to hearing from you.
 
-Zhongyu Xia, Mirela Beloiu Schwenke, Xinlian Liang, and Martin Mokros \
+Zhongyu Xia, Mirela Beloiu Schwenke, Xinlian Liang, Stefano Puliti, and Martin Mokros \
 (Principal Investigators COST SNSF project and 3DForEcoTech)
 
 Example of delineated individual tree species:
