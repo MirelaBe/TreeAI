@@ -15,11 +15,11 @@ As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establi
 1.	RGBI (or RGB) imagery (at ≤ 10 cm, about 3.94 in, spatial resolution) of the site. 
 2.	Ground truth tree data (n>100), including two minimum attributes:
 - Geolocation of individual tree with manual delineation of the individual tree canopy (strongly preferred) AND/OR coordinates of the point of the individual tree canopy. 
-- Individual tree species records.
+- Individual tree species records. The data might originate from either forests or urban regions. 
 
 ### Data format: 
 **Ground truth tree data:** For the delineation of the tree crowns a shapefile of the individual trees with the two minimum attributes. For GPS points of the center of the tree species a shapefile or an Excel file with the X and Y coordinates and the tree species. \
-**RGBI images:** tiff file. Please specify the coordinate systems of the data. The data might originate from either forests or urban regions. \
+**RGBI images:** tiff file. An orthomosaic for the study region and each year is preferred, yet clips of the plots are also acceptable. Please specify the coordinate systems of the data and the acquisition date. \
 **COCO format:** A JSON annotation file with the attributes and the image files (e.g., png, jpg, or tiff). 
 Data transfer: Please use your preferred data transfer option or let us know your needs.
 
