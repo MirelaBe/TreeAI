@@ -33,7 +33,7 @@ We welcome ground truth tree data with more additional attributes, as this would
 6.	Stand age, regeneration conditions (i.e., presence or absence, numbers of saplings), and management operations.
 For the plots with RGB/RGB-NIR images, the inclusion of high-resolution multispectral/hyperspectral images, high-resolution ground panorama photographs, UAV and/or terrestrial LiDAR point clouds data will be highly valuable. 
 
-### Deadline for submission 31 October 2024
+### Deadline for submission 30 October 2024
 Our aim is to be an open collaborator for individual tree species monitoring researchers worldwide.
 
 Contact **Zhongyu Xia**, zhongyu.xia[at]usys.ethz.ch or Dr. Mirela Beloiu Schwenke, mirela.beloiu[at]usys.ethz.ch, if you are interested in making a data contribution and your data match the criteria outlined or if you want to help with the DL part. All data will be handled safely and securely under a strict data policy and will not be given to third parties without permission. 
