@@ -48,11 +48,11 @@ Mirela Beloiu Schwenke, Zhongyu Xia, Verena Griess, Xinlian Liang, Stefano Pulit
 (Principal Investigators COST SNSF project and 3DForEcoTech)
 
 Example of delineated individual tree species:
-![image](https://github.com/user-attachments/assets/8bbf79ca-6949-48dd-a6af-e0bb1b26c033) \
+![image](https://github.com/user-attachments/assets/5e1ac390-f4ba-4122-afc9-0faa5309432a)  \
 Fig.1 a) Tree species delineation on RGB imagery, the colors show different tree species; b) example of attribute table containing key information of the delineated trees, such as the Latin names of the species, DBH, and height.
 
 ![image](https://github.com/user-attachments/assets/62049778-000c-4069-81f2-afe1c58b853b)
-Fig.2 a) Tree species delineation based on RGBI imagery (points) and the countries with high-resolution RGB/I imagery.
+Fig.2 a) Regions with tree species delineation (points) and the countries with high-resolution RGB/I imagery.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Mandarin translation:
