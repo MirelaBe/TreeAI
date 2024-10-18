@@ -45,7 +45,8 @@ Contact **Zhongyu Xia**, zhongyu.xia[at]usys.ethz.ch or Dr. Mirela Beloiu Schwen
 We look forward to hearing from you.
 
 Mirela Beloiu Schwenke, Zhongyu Xia, Verena Griess, Xinlian Liang, Stefano Puliti, and Martin Mokros \
-(Principal Investigators COST SNSF project and 3DForEcoTech)
+(Principal Investigators COST SNSF project and 3DForEcoTech) \
+https://3dforecotech.eu/activities/tree-species-annotations-and-aerial-rgb-or-rgbi-imagery/ 
 
 Example of delineated individual tree species:
 ![image](https://github.com/user-attachments/assets/5e1ac390-f4ba-4122-afc9-0faa5309432a)  \
