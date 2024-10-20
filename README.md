@@ -52,7 +52,7 @@ Example of delineated individual tree species:
 ![image](https://github.com/user-attachments/assets/5e1ac390-f4ba-4122-afc9-0faa5309432a)  \
 Fig.1 a) Tree species delineation on RGB imagery, the colors show different tree species; b) example of attribute table containing key information of the delineated trees, such as the Latin names of the species, DBH, and height.
 
-![image](https://github.com/user-attachments/assets/62049778-000c-4069-81f2-afe1c58b853b)
+![image](https://github.com/user-attachments/assets/7f10af91-430a-4286-aabe-ff93425c7cbf) 
 Fig.2 a) Regions with tree species delineation and the countries with high-resolution RGB/I imagery.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
