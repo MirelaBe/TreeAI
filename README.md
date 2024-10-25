@@ -33,8 +33,7 @@ We welcome ground truth tree data with more additional attributes, as this would
 6.	Stand age, regeneration conditions (i.e., presence or absence, numbers of saplings), and management operations.
 For the plots with RGB/RGB-NIR images, the inclusion of high-resolution multispectral/hyperspectral images, high-resolution ground panorama photographs, UAV and/or terrestrial LiDAR point clouds data will be highly valuable.
 
-##License to be specified: 1) CC BY, 2) CC BY SA, 3) CC BY NC SA, 4) MIT.
-Short explanation of the license meaning: 
+#### ***License to be specified for the data usage: 1) CC BY, 2) CC BY SA, 3) CC BY NC SA, or 4) MIT. Short explanation of the license meaning:***
 1.  CC BY: Maximizes the dataset’s accessibility and usage, including commercial uses, but ensures you are credited.
 2.  CC BY SA: Adds a condition that any modifications must be shared under the same license, promoting openness.
 3.  CC BY NC SA: Limits the use to non-commercial purposes and ensures derivatives stay open, providing protection against commercial exploitation.
@@ -45,7 +44,7 @@ We will organize a data science competition for tree species identification betw
 ### Countries with open RGBI imagery: 
 We have compiled a list of countries and regions that provide high-resolution images for free (Fig. 1). This will help us to apply the model to larger areas and assess the distribution of tree species and changes in species composition over time. If you know of regions where high-resolution images are available, please let us know.
 
-### Deadline for submission 30 October 2024
+### Deadline for submission October 30, 2024. Update: The deadline has been extended to November 30.
 Our aim is to be an open collaborator for individual tree species monitoring researchers worldwide.
 
 Contact **Zhongyu Xia**, zhongyu.xia[at]usys.ethz.ch or Dr. Mirela Beloiu Schwenke, mirela.beloiu[at]usys.ethz.ch, if you are interested in making a data contribution and your data match the criteria outlined or if you want to help with the DL part. All data will be handled safely and securely under a strict data policy and will not be given to third parties without permission. 
