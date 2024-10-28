@@ -41,13 +41,13 @@ We have compiled a list of countries and regions that provide high-resolution im
 ### Deadline for submission October 30, 2024. Update: The deadline has been extended to November 30.
 Our aim is to be an open collaborator for individual tree species monitoring researchers worldwide.
 
-Contact **Zhongyu Xia**, zhongyu.xia[at]usys.ethz.ch or Dr. Mirela Beloiu Schwenke, mirela.beloiu[at]usys.ethz.ch, if you are interested in making a data contribution and your data match the criteria outlined or if you want to help with the DL part. All data will be handled safely and securely under a strict data policy and will not be given to third parties without permission. Data that does not fall under one of the licenses listed below will only be used internally for model development. However, we encourage open data and this will be the basis of our first paper.
+Contact **Zhongyu Xia**, zhongyu.xia[at]usys.ethz.ch or Dr. Mirela Beloiu Schwenke, mirela.beloiu[at]usys.ethz.ch, if you are interested in making a data contribution and your data match the criteria outlined or if you want to help with the DL part. Transfer: You can send the compressed zip file with your name on it, e.g. AnnaMueller.zip, via your preferred transfer platform, e.g. Google Drive, Zenodo, WeTransfer, or SwissTransfer.
 #### ***License to be specified for the data usage: 1) CC BY, 2) CC BY SA, 3) CC BY NC SA, or 4) MIT. Short explanation of the license meaning:***
 1.  CC BY: Maximizes the dataset’s accessibility and usage, including commercial uses, but ensures you are credited.
 2.  CC BY SA: Adds a condition that any modifications must be shared under the same license, promoting openness.
 3.  CC BY NC SA: Limits the use to non-commercial purposes and ensures derivatives stay open, providing protection against commercial exploitation.
 4.  MIT License: Very permissive, allowing almost any use, including commercial, as long as attribution is provided. \
-Transfer: You can send the compressed zip file with your name on it, e.g. AnnaMueller.zip, via your preferred transfer platform, e.g. Google Drive, Zenodo, WeTransfer, or SwissTransfer.
+All data will be handled safely and securely under a strict data policy and will not be given to third parties without permission. Data not under one of the licenses listed below will only be used internally for model development. However, we encourage open data; this will be our first paper's basis. \
 
 We look forward to hearing from you.
 Mirela Beloiu Schwenke, Zhongyu Xia, Verena Griess, Xinlian Liang, Stefano Puliti, and Martin Mokros \
