@@ -46,10 +46,10 @@ Contact **Zhongyu Xia**, zhongyu.xia[at]usys.ethz.ch or Dr. Mirela Beloiu Schwen
 1.  CC BY: Maximizes the dataset’s accessibility and usage, including commercial uses, but ensures you are credited.
 2.  CC BY SA: Adds a condition that any modifications must be shared under the same license, promoting openness.
 3.  CC BY NC SA: Limits the use to non-commercial purposes and ensures derivatives stay open, providing protection against commercial exploitation.
-4.  MIT License: Very permissive, allowing almost any use, including commercial, as long as attribution is provided.
-We look forward to hearing from you.
+4.  MIT License: Very permissive, allowing almost any use, including commercial, as long as attribution is provided. \
 Transfer: You can send the compressed zip file with your name on it, e.g. AnnaMueller.zip, via your preferred transfer platform, e.g. Google Drive, Zenodo, WeTransfer, or SwissTransfer.
 
+We look forward to hearing from you.
 Mirela Beloiu Schwenke, Zhongyu Xia, Verena Griess, Xinlian Liang, Stefano Puliti, and Martin Mokros \
 (Principal Investigators COST SNSF project and 3DForEcoTech) \
 https://3dforecotech.eu/activities/tree-species-annotations-and-aerial-rgb-or-rgbi-imagery/ 
