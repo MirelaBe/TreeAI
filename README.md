@@ -21,7 +21,6 @@ As part of the COST action 3DForEcoTech and COST SNSF project, we aim to establi
 **Ground truth tree data:** For the delineation of the tree crowns a shapefile of the individual trees with the two minimum attributes. For GPS points of the center of the tree species a shapefile or an Excel file with the X and Y coordinates and the tree species. \
 **RGBI images:** tiff file. An orthomosaic for the study region and each year is preferred, yet clips of the plots are also acceptable. Please specify the coordinate systems of the data and the acquisition date. \
 **COCO format:** A JSON annotation file with the attributes and the image files (e.g., png, jpg, or tiff). 
-Data transfer: Please use your preferred data transfer option or let us know your needs.
 
 ### Optional data:
 We welcome ground truth tree data with more additional attributes, as this would facilitate further evaluations and developments of models in the future. They include, but are not limited to: 
@@ -42,7 +41,7 @@ We have compiled a list of countries and regions that provide high-resolution im
 We aim to be an open collaborator for individual tree species monitoring researchers worldwide.
 
 Contact **Zhongyu Xia**, zhongyu.xia[at]usys.ethz.ch or Dr. Mirela Beloiu Schwenke, mirela.beloiu[at]usys.ethz.ch, if you are interested in making a data contribution and your data match the criteria outlined or if you want to help with the DL part.  \
-### Transfer: https://form.ethz.ch/research/data-call.html.
+### Data transfer: https://form.ethz.ch/research/data-call.html.
 
 We look forward to hearing from you.
 Mirela Beloiu Schwenke, Zhongyu Xia, Verena Griess, Xinlian Liang, Stefano Puliti, and Martin Mokros \
